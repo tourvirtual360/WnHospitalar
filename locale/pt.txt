@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Wn Hospitalar
+
+## Media
+
+### Title
+panorama_8D0334D5_801E_88B7_41D0_101EE2C2110A.label = Estoque 03
+panorama_8D18308E_8001_8895_41A7_F8E4706760D8.label = Corredor 02
+panorama_8D18A39B_8001_88B3_41D3_8CF9D7A6FBD1.label = Estoque 07
+panorama_8D18CA3D_8003_FBF4_41D8_729E842547F6.label = Estoque 05
+panorama_8D18F7A7_800E_8893_41CF_147BDC4D95C8.label = Corredor 01
+panorama_8D190F58_800F_B9BC_4199_ABC50FA74914.label = Comércio Exterior
+panorama_8D1934D1_800F_888C_41B5_B2AB5CBC1C15.label = Recepçao 01
+panorama_8D19D5C0_8002_888D_41A0_EA87747FF545.label = Estoque 04
+panorama_8D19F02F_800E_8794_41CA_93615B4151D3.label = Recepção
+panorama_8D1B2D4F_8001_9994_41D1_55E9166AED8E.label = Refeitório 02
+panorama_8D1B6520_800E_898D_41D9_98D919971E8E.label = Gerente de Vendas
+panorama_8D1B8807_8001_8793_41D1_0B5D5BC80240.label = Vendas
+panorama_8D1BF36B_8002_8993_41C0_72A84852B952.label = Manutenção
+panorama_8D1C1888_8003_989C_41DB_20C982FFB71E.label = Licitação
+panorama_8D1C4234_8002_8BF4_41D0_7CD0D8F759F0.label = T.I
+panorama_8D1CA28A_8001_889D_41CF_E8207F89B564.label = Fachada
+panorama_8D1D38EC_8002_F895_41CE_79729E152D83.label = Corredor 03
+panorama_8D1D5A0C_8001_9B94_41C2_F365A383C082.label = Estoque 01
+panorama_8D1D5D14_8001_79B5_41B7_52935703B711.label = Estoque 02
+panorama_8D1DD582_8002_888D_41CF_981DFA5EE9B7.label = Refeitório 01
+panorama_8D1E12BB_8006_88F3_41C9_5E81D9E6C8F5.label = Sala de Reunião
+panorama_8D1E19CB_8007_F893_41C8_0E63C874C48E.label = Administraçaõ 02
+panorama_8D1E4A8A_8007_789D_41C1_2B7602BD26F9.label = Compras
+panorama_8D1E84DD_8007_88B7_41AE_C073361FD7DE.label = Fiscal
+panorama_8D1E9930_8006_998D_41CD_90C93E3CC93C.label = Administração
+panorama_8D1EA1AE_8001_8894_41B3_545DA5EEBE73.label = Compras 03
+panorama_8D1ED5DE_8001_88B4_41DD_3E4B3C962160.label = Compras 02
+panorama_8D1F5B11_8001_798F_41D1_C2E9602562F0.label = Estoque 06
+panorama_8D1F8B2C_8006_9994_41D8_C41915D67021.label = Compras 01
+panorama_8D1F8C5B_8006_9FBC_41D3_67966755BA2A.label = Recursos Humanos
+panorama_8D1FCC63_8002_9F8C_41A0_D9C057D92DE1.label = Estoque 06
+panorama_8E83C807_8001_8793_41D2_0EF96D589C06.label = Aérea
+video_99346892_8001_B88C_41C0_F7306E16690F.label = Video Wn
+
+## Action
+
+### URL
+LinkBehaviour_201482C8_38DC_96A0_41C6_04BAA827A341.source = https://wa.link/ag1wbo
+LinkBehaviour_214BF2E2_38DD_B660_41B8_08AE2E7FEA67.source = https://goo.gl/maps/7ZDFsBeRvdMH9Gb98
+LinkBehaviour_4CB175A2_5582_95F3_41D0_A4DED299061B.source = https://goo.gl/maps/7ZDFsBeRvdMH9Gb98
